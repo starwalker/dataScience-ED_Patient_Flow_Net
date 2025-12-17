@@ -30,7 +30,7 @@ credentials.xml
 #
 # Database files and backups
 *.sqlite
-*.sql
+#*.sql
 *.dump
 *.bak
 db/
